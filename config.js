@@ -12,7 +12,7 @@ global.owner = [
   [''] 
 ] //Number of owners
 
-//global.pairingNumber = "923326925115" //put your bot number here
+//global.pairingNumber = "923057732219" //put your bot number here
 
 global.mods = ['917605902011','32460248586'] 
 global.prems = ['917605902011', '32460248586', '919398758484']
@@ -55,11 +55,11 @@ global.premium = 'true'
 global.packname = 'M Hassan Ramzan Haral' 
 global.author = 'M Hassan Ramzan Haral' 
 global.menuvid = 'https://telegra.ph/file/085c4b1068f0f4f8db970.mp4'
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
-global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
-global.fgsc = 'https://github.com/Guru322/GURU-BOT' 
-global.fgyt = 'https://youtube.com/@Asliguru'
-global.fgpyp = 'https://youtube.com/@Asliguru'
+global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/hasanharal\n' 
+global.dygp = 'https://whatsapp.com/channel/0029VaGY1aMJ3jv3Dio7P125'
+global.fgsc = 'https://github.com/hasanharal/GURU-BOT' 
+global.fgyt = 'https://youtube.com/@dbcenterpro'
+global.fgpyp = 'https://youtube.com/@dbcenterpro'
 global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
 global.thumb = fs.readFileSync('./Assets/Gurulogo.jpg')
 
